@@ -2,10 +2,7 @@
 /*
 Module Name: WordPress Editor erweitern
 Module URI: Hilfe Link
-Description: WordPress Editor erweitern.
-
-
-f [Backend]
+Description: WordPress Editor erweitern. [Backend]
 Author: Daniel Bieli
 Author URI: https://speedword.press
 */
