@@ -1,8 +1,8 @@
 ﻿<?php
 /*
-Module Name: WordPress Login Logo ändern
+Module Name: Lokales jQuery ersetzen mit jQuery vom Google CDN und aus dem Footer laden
 Module URI: Hilfe Link
-Description: WordPress Login Logo ändern. Einfach aktivieren und im Plugin Verzeichnis /wp-content/plugins/speedwp-toolbox/img/login-logo.png 80x80px austauschen. [Frontend]
+Description: Lokales jQuery ersetzen mit jQuery vom Google CDN und aus dem Footer laden. [Frontend]
 Author: Daniel Bieli
 Author URI: https://speedword.press
 */
@@ -14,7 +14,7 @@ if ( !class_exists('Toolbox') ) {
 }
 
 
-/* WordPress Login Logo ändern */
+/* Lokales jQuery ersetzen mit jQuery vom Google CDN und aus dem Footer laden */
 
 add_action('wp_enqueue_scripts', 'speedwp_replace_jquery_google');
 function speedwp_replace_jquery_google() {
