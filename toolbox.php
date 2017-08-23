@@ -604,16 +604,16 @@ final class Toolbox {
 				'id'	  => 'toolbox_manual',
 				'title'	  => 'Dokumentation',
 				'content' => '<p>Ausführliche Dokumentation für das Toolbox-Plugin online verfügbar:</p>'.
-							 '<p><a href="http://playground.ebiene.de/toolbox-wordpress-plugin/" target="_blank">http://playground.ebiene.de/toolbox-wordpress-plugin/</a></p>'
+							 '<p><a href="https://speedword.press/wissen/1/" target="_blank">https://speedword.press/wissen/1/</a></p>'
 			)
 		);
 
 		/* Sidebar */
 		$screen->set_help_sidebar(
 			'<p><strong>Mehr zum Autor</strong></p>'.
-			'<p><a href="https://plus.google.com/110569673423509816572/" target="_blank">Google+</a></p>'.
-			'<p><a href="http://twitter.com/wpSEO" target="_blank">Twitter</a></p>'.
-			'<p><a href="http://wpcoder.de" target="_blank">Plugins</a></p>'
+			'<p><a href="https://plus.google.com/u/0/b/111045239810437219026/111045239810437219026" target="_blank">Google+</a></p>'.
+			'<p><a href="https://twitter.com/SpeedWordPress" target="_blank">Twitter</a></p>'.
+			'<p><a href="https://speedword.press/wissen" target="_blank">Mehr Wissen</a></p>'
 		);
 	}
 
