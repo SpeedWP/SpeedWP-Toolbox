@@ -2,7 +2,7 @@
 /*
 Module Name: Blog Posts via Mail deaktivieren
 Module URI: Hilfe Link
-Description: Blog Posts via Mail deaktivieren [Backend & Frontend]
+Description: Blog Posts via Mail deaktivieren [Backend]
 Author: Daniel Bieli
 Author URI: https://speedword.press
 */
