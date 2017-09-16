@@ -1,12 +1,13 @@
 <?php
 /*
 Plugin Name: SpeedWP Toolbox
-Plugin URI: https://github.com/speedwordpress/SpeedWP-Toolbox/
+Plugin URI: https://github.com/SpeedWP/SpeedWP-Toolbox
 Description: Ersetzt oder erweitert die <em>functions.php</em> im Theme, indem Code-Schnipsel als Toolbox-Module angelegt und direkt im Plugin verwaltet werden.
 Author: Daniel Bieli
 Author URI: https://speedword.press/
 License: GPLv2 or later
 Version: 1.0
+GitHub Plugin URI: https://github.com/SpeedWP/SpeedWP-Toolbox
 */
 
 /*
