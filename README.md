@@ -22,12 +22,12 @@ Das Modul ist aktiv auf allen Blogseiten. Im Admin und Blogseiten.
 
 ## Alle Module 
 
-*admin_bar.php
-*only_posts.php
-*optimize_db.php
-*pingback_header.php
-*post_shortcode.php
-*reduced_footer.php
+* admin_bar.php
+* only_posts.php
+* optimize_db.php
+* pingback_header.php
+* post_shortcode.php
+* reduced_footer.php
 
 speedwp-add-alt-title-tag.php	Die ersten Snippets	3 months ago
 speedwp-add-extras-editor.php	Update speedwp-add-extras-editor.php	3 months ago
